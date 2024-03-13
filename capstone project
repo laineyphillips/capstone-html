@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>Lainey Phillips</h1>
+    <img src="./Profile Photo.png" height="200" alt description="girl in car smiling">
+<h2>Who I Am:</h2>
+<p>I am a dedicated worker and learner; I have over 5 years of experience in customer service of various roles, a Psychology graduate (BA), and an artistic individual who loves to create, collaborate, and connect with others. </p>
+<hr/>
+<h2>Education:</h2>
+<ul>
+    <li>Associates of Arts: Peninsula College (2017 - 2019) </li>
+    <li>Bachelors of Science (Psychology): Western Washington University (2019 - 2022)</li>
+</ul>
+<hr/>
+    <h2>Work Experience:</h2>
+    <h3>Sunshine Drip</h3>
+    <h4>Barista</h4>
+    <h5>August 2023 - Present</h5>
+    <ul>
+        <li>Equipped with multiple responsibilities within the workspace, balancing between food prep, customer service, barista, and running food.</li>
+        <li>Delegating responsibilities to team members to ensure efficiency. </li>
+        <li>Communicate with members of a team in a professional manner; conflict management.</li>
+    </ul>
+    <h3>Cafe De Lisio</h3>
+    <h4>Barista</h4>
+    <h5>December 2022- May 2023</h5>
+    <ul>
+        <li>Worked independently and one-on-one with coworkers during periods of high volume and efficiently managed rushes. </li>
+        <li>Memorized specialty drinks and verbalized specials of the week to customers to heighten sales.</li>
+        <li>Cultivated interpersonal relationships with customers and memorized regular’s usual drinks to ensure efficiency in the workspace.</li>
+    </ul>
+    <h3>North End Fitness Center</h3>
+    <h4>Front Desk Assistant</h4>
+    <h5>July 2022 - January 2023</h5>
+    <ul>
+        <li>Cultivate community based, interpersonal relationships with gym members</li>
+        <li>Utilize GymAssistant (an encrypted member database of over 120,000 client's data)</li>
+        <li>Inventory and billing management</li>
+        <li>Maintained cleanliness and organization throughout the facility to ensure member's satisfaction</li>
+    </ul>
+    <hr/>
+    <H2>Skills:</H2>
+    <ul>
+        <li> Microsoft Office Suite, SPSS, and Visual Studio Code.</li>
+        <li>Interpersonal-Relationship Building. </li>
+        <li>Customer Service. </li>
+        <li>Communication. </li>
+        <li>Technical, Persuasive, and Creative Writing.</li>
+    </ul>
+    <hr/>
+    <h2>Academic Acheivements</h2>
+    <h4> PsychFest Presentation</h4>
+    <ul>
+        <li>Conducted 3 research studies on the student body at WWU, analyzed data using SPSS Code and presented each study's research findings at PsychFest (WWU) in May 2022. </li>
+    </ul>
+
+    <h4> Appointed Group Leader </h4>
+    <ul>
+        <li>Facilitated multiple conversations and group lectures with members of a class via Zoom.</li>
+    </ul>
+    <h4>Research Assistant Position</h4>
+    <ul>
+        <li>Member of the EveryBODY project, focusing on Eating Disorders and Body image amongst adolescents. </li>
+    </ul>
+    <hr/>
+<h2>Other</h2>
+
+<a href="./hobbies.html">Hobbies</a>
+
+<p><a href="./contact.html">Contact Me</a> </p>
+<footer>
+    <small>
+        © Lainey Phillips. All rights reserved.
+    </small>
+</footer>
+</body>
+</html>
